@@ -29,7 +29,7 @@ define('DB_USER', 'localadmin');
 define('DB_PASSWORD', 'Jupiter123');
 
 /** MySQL hostname */
-define('DB_HOST', 'bt25-php-dev.cloudapp.net/');
+define('DB_HOST', 'bt25-php-dev.cloudapp.net');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
