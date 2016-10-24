@@ -26,10 +26,10 @@ define('DB_NAME', 'ccytanzania');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'Jupiter123');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'http://bt25-php-dev.cloudapp.net/');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
