@@ -23,7 +23,7 @@
 define('DB_NAME', 'ccytanzania');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'localadmin');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'Jupiter123');
