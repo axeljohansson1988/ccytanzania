@@ -23,13 +23,13 @@
 define('DB_NAME', 'ccytanzania');
 
 /** MySQL database username */
-define('DB_USER', 'localadmin');
+define('DB_USER', 'root');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'Jupiter123');
 
 /** MySQL hostname */
-define('DB_HOST', 'bt25-php-dev.cloudapp.net');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
